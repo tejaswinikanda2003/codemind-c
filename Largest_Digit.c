@@ -13,9 +13,4 @@ int main()//largest
             i=k;
         }
     }
-    printf("%d",i);
-}
-
-
-
-
+    printf("%d",i);}
