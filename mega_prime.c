@@ -40,7 +40,4 @@ int main()
     {
         printf("Not Mega Prime");
     }
-    
-    
-    
 }
