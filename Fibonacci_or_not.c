@@ -23,4 +23,3 @@ int main()
         if(co==0)
         printf("False");
 }}
- 
